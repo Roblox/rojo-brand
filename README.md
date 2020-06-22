@@ -1,5 +1,5 @@
 # Rojo Branding
-This repository contains all of the source images for Rojo's branding, as well as recommended renders into formats like PNG. It's isolated from the [main Rojo repository](https://github.com/rojo-rbx/rojo) to avoid extra bloat, since everything here is a binary blob!
+This repository contains all of the source images for Rojo's branding, as well as recommended renders into formats like PNG. It's isolated from the [main Rojo repository](https://github.com/Roblox/rojo) to avoid extra bloat, since everything here is a binary blob!
 
 "Rojo Red" is currently `#e13835`. This color was chosen to look good on dark and light backgrounds.
 
